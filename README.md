@@ -5,7 +5,7 @@
 
 ![Full-screen output — Romans 8:28 in Arabic and English](docs/screenshots/hero-full-romans-8-28.png)
 
-> 📲 **Coming soon to Google Play.** The first signed APK is being prepared — watch the [Releases page](https://github.com/ArabicChristianMedia/Arabic-Christian-Presenter/releases).
+> 📲 **Download v1.12.7 now** — get the signed APK from the [v1.12.7 release](https://github.com/ArabicChristianMedia/Arabic-Christian-Presenter/releases/tag/v1.12.7). Google Play availability is coming soon.
 
 ---
 
@@ -50,7 +50,13 @@ All screenshots in [`docs/screenshots/`](docs/screenshots/).
 
 ## Install
 
-Requires **Android 7.0+**. Download the signed APK from the [Releases page](https://github.com/ArabicChristianMedia/Arabic-Christian-Presenter/releases) when it is published. Google Play availability is coming soon.
+Requires **Android 7.0+**.
+
+1. Download the signed APK from the [v1.12.7 release](https://github.com/ArabicChristianMedia/Arabic-Christian-Presenter/releases/tag/v1.12.7).
+2. Your phone will ask to allow installs from the browser — allow it (the APK comes straight from this page).
+3. Install, open, and pick your Bible languages in Setup.
+
+Google Play availability is coming soon.
 
 ## Learn more
 
